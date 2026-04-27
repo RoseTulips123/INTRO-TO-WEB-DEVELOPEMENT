@@ -12,6 +12,16 @@ h1 {
 
 }
 
+h2 {
+    text-transform: uppercase;
+    font-family: "Garamond", Garamond regular;
+    text-align: left;
+    font-size: 40px;
+    font-weight: 1000;
+    color: #c70fff;
+
+}
+
 .color1{
     color: #c70fff;
 }
